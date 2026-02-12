@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Norah's Puzzle",
-  description: "A sliding puzzle game",
+  title: "Norah's Games",
+  description: "A collection of games for Norah",
 };
 
 export default function RootLayout({
